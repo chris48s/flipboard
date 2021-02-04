@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "flipboard"
+version = "0.1.0"
+description = "Apply transformations to text on the clipboard"
+authors = ["chris48s"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/chris48s/flipboard"
+homepage = "https://github.com/chris48s/flipboard"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+pyperclip = "^1.8.1"
+click = "^7.1.2"
+xmlformatter = "^0.2.2"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+flipboard = 'flipboard.cli:cli'
+
+[build-system]
+requires = ["poetry-core>=1.0.2"]
+build-backend = "poetry.core.masonry.api"
