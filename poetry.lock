@@ -8,7 +8,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 
 [[package]]
 name = "pyperclip"
-version = "1.8.1"
+version = "1.8.2"
 description = "A cross-platform clipboard module for Python. (Only handles plain text for now.)"
 category = "main"
 optional = false
@@ -25,7 +25,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.6"
-content-hash = "b7b07e3e5ab5c512ef52c6a2fc710bedbd16913f692ba7aa558f8de7365f98ed"
+content-hash = "f0a9478dab75768fb57807ff0258e417b525121dee86d055dd658c298d3791e9"
 
 [metadata.files]
 click = [
@@ -33,7 +33,7 @@ click = [
     {file = "click-7.1.2.tar.gz", hash = "sha256:d2b5255c7c6349bc1bd1e59e08cd12acbbd63ce649f2588755783aa94dfb6b1a"},
 ]
 pyperclip = [
-    {file = "pyperclip-1.8.1.tar.gz", hash = "sha256:9abef1e79ce635eb62309ecae02dfb5a3eb952fa7d6dce09c1aef063f81424d3"},
+    {file = "pyperclip-1.8.2.tar.gz", hash = "sha256:105254a8b04934f0bc84e9c24eb360a591aaf6535c9def5f29d92af107a9bf57"},
 ]
 xmlformatter = [
     {file = "xmlformatter-0.2.2.tar.gz", hash = "sha256:3135aaf08ecc33b0efedbe61be8b58fc5e5a878c2d342f6fb1d6fd5e2b60d545"},
