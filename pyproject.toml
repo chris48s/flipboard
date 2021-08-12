@@ -12,7 +12,7 @@ homepage = "https://github.com/chris48s/flipboard"
 python = "^3.6"
 pyperclip = "^1.8.2"
 click = "^8.0.1"
-xmlformatter = "^0.2.2"
+xmlformatter = "^0.2.3"
 
 [tool.poetry.dev-dependencies]
 
