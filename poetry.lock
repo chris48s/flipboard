@@ -53,7 +53,7 @@ python-versions = "*"
 
 [[package]]
 name = "xmlformatter"
-version = "0.2.2"
+version = "0.2.3"
 description = "Format and compress XML documents"
 category = "main"
 optional = false
@@ -74,7 +74,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.6"
-content-hash = "d36c413572a1a65072fc3e962fd12dc843972494a6a08e9ff8c7e824cd93a334"
+content-hash = "5076c2e4e35d27bca5338be0070fe206a4cfe033ce302fd3dc019e6210c963f3"
 
 [metadata.files]
 click = [
@@ -98,7 +98,7 @@ typing-extensions = [
     {file = "typing_extensions-3.10.0.0.tar.gz", hash = "sha256:50b6f157849174217d0656f99dc82fe932884fb250826c18350e159ec6cdf342"},
 ]
 xmlformatter = [
-    {file = "xmlformatter-0.2.2.tar.gz", hash = "sha256:3135aaf08ecc33b0efedbe61be8b58fc5e5a878c2d342f6fb1d6fd5e2b60d545"},
+    {file = "xmlformatter-0.2.3.tar.gz", hash = "sha256:11cab1a0750ef2b998bfb792f5fe14c56256497907da3690ed5004ab3b46175e"},
 ]
 zipp = [
     {file = "zipp-3.5.0-py3-none-any.whl", hash = "sha256:957cfda87797e389580cb8b9e3870841ca991e2125350677b2ca83a0e99390a3"},
