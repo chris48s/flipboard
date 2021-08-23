@@ -53,7 +53,7 @@ python-versions = "*"
 
 [[package]]
 name = "xmlformatter"
-version = "0.2.3"
+version = "0.2.4"
 description = "Format and compress XML documents"
 category = "main"
 optional = false
@@ -98,7 +98,7 @@ typing-extensions = [
     {file = "typing_extensions-3.10.0.0.tar.gz", hash = "sha256:50b6f157849174217d0656f99dc82fe932884fb250826c18350e159ec6cdf342"},
 ]
 xmlformatter = [
-    {file = "xmlformatter-0.2.3.tar.gz", hash = "sha256:11cab1a0750ef2b998bfb792f5fe14c56256497907da3690ed5004ab3b46175e"},
+    {file = "xmlformatter-0.2.4.tar.gz", hash = "sha256:6d93c4bc04cffb1d4cf6eb9d9034018e9b264e4554269e7da67539ba4bff03f5"},
 ]
 zipp = [
     {file = "zipp-3.5.0-py3-none-any.whl", hash = "sha256:957cfda87797e389580cb8b9e3870841ca991e2125350677b2ca83a0e99390a3"},
