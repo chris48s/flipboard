@@ -9,7 +9,7 @@ repository = "https://github.com/chris48s/flipboard"
 homepage = "https://github.com/chris48s/flipboard"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8"
 pyperclip = "^1.8.2"
 click = "^8.0.1"
 xmlformatter = "^0.2.3"
