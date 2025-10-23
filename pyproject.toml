@@ -13,11 +13,11 @@ dependencies = [
 ]
 
 [tool.poetry.group.dev.dependencies]
-isort = "==5.12"
-flake8 = "==6.1.0"
-black = "==23.9.1"
-pytest = "==7.4.2"
-pytest-cov = "==4.1.0"
+isort = "==7.0.0"
+flake8 = "==7.3.0"
+black = "==25.9.0"
+pytest = "==8.4.2"
+pytest-cov = "==7.0.0"
 
 [project.urls]
 Home = "https://github.com/chris48s/flipboard"
