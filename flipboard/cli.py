@@ -1,4 +1,5 @@
 import json
+import sys
 import xml.parsers.expat
 from base64 import b64decode, b64encode
 from urllib.parse import quote, unquote
@@ -95,6 +96,16 @@ def minify(language):
             return
 
     raise NotImplementedError()
+
+
+@cli.command()
+def stdout():
+    print(pyperclip.paste())
+
+
+@cli.command()
+def stdin():
+    pyperclip.copy(sys.stdin.read())
 
 
 @cli.command()
