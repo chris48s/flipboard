@@ -1,6 +1,6 @@
 [project]
 name = "flipboard"
-version = "0.2.0"
+version = "0.3.0"
 description = "Apply transformations to text on the clipboard"
 authors = [{name = "chris48s"}]
 license = "MIT"
