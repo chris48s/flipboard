@@ -9,7 +9,7 @@ requires-python = ">=3.10"
 dependencies = [
     "pyperclip >=1.8.2",
     "click >=8.0.1",
-    "xmlformatter >=0.2.3",
+    "xmlformatter >=0.2.9",
 ]
 
 [tool.poetry.group.dev.dependencies]
